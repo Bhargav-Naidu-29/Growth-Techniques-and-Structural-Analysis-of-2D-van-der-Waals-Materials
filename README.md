@@ -78,7 +78,7 @@ Texture (preferred orientation) was observed along the \( l \)-direction in PbTa
 | Parameter               | Experimental     | Materials Project |
 |------------------------|------------------|-------------------|
 | Crystal System         | Trigonal         | Trigonal          |
-| Space Group            | P$\bar{3}$m1     | P$\bar{3}$m1      |
+| Space Group              | P̅3m1          | P̅3m1       |
 | Lattice Parameter \(a\)| 3.44 Å           | 3.435 Å           |
 | Lattice Parameter \(c\)| 9.38 Å           | 9.365 Å           |
 | Refined χ² Value       | 18.3             | N/A               |
